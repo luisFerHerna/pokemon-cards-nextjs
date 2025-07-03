@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
         {
           protocol: "https",
           hostname: "styles.redditmedia.com",
+        },
+        {protocol: "https",
+        hostname: "images.icon-icons.com",
         }
       ]
   }
